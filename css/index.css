@@ -18,7 +18,7 @@ body {
 
 @font-face {
   font-family: 'BebasNeue';
-  src: url("/fonts/MANIFESTO.ttf"); }
+  src: url("/fonts/BebasNeue.otf"); }
 
 @font-face {
   font-family: 'MaturaScriptCapitals';
@@ -80,7 +80,7 @@ body {
   #nav > .header {
     margin-bottom: 10px; }
     #nav > .header > .title {
-      font-size: 45px;
+      font-size: 65px;
       line-height: 53px;
       color: #333;
       font-family: MaturaScriptCapitals; }
@@ -94,7 +94,7 @@ body {
       text-align: right; }
   #nav .nav-menu {
     font-family: BebasNeue;
-    font-size: 12px;
+    font-size: 10px;
     line-height: 24px;
     color: #333;
     margin-left: 24px; }
@@ -127,7 +127,7 @@ body {
 
 #footer {
   margin-top: 80px;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 22px;
   opacity: 0.8; }
 
@@ -310,7 +310,7 @@ body {
   margin-bottom: 70px; }
   .archive-category > .menu > li {
     margin-top: 10px;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 24px;
     display: flex;
     justify-content: space-between;
